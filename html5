@@ -8,13 +8,17 @@
 </head>
 <body>
     <h1>BAHRİ İLHAN</h1>
+  
+
     <table>
   <tr>
     <td>
-        <img style="height:180px;" src="image/IMAGE 2022-11-12 20:38:56.jpg" alt="my photo">
+      <a href="https://www.instagram.com/bahri_ilhn/" target="_blank">
+        <img style="height: 180px;" src="image/IMAGE 2022-11-12 20:38:56.jpg" alt="my instagram">
+      </a>
     </td>
     <td> <h2 style="color:blue">hakkımda</h2>
-        <p>Merhaba ben Bahri İlhan.20 yaşındayım Bursa'da yaşıyorum.Bursa Teknik Üniversitesi bilgisayar mühendisliği hazırlık öğrencisiyim.Spor yapmaktan voleybol oynamamaktan İngilizce şarkı dinlemekten ve kendimi geliştirmek için vakit harcamkatan hoşlanırım. Şu anki hedefim kısa sürede en verimli şekilde ilerleyip işimde en iyilerden olmak,bunun için çalışıyorum.</p>
+        <p>Merhaba ben <strong> Bahri İlhan </strong>.20 yaşındayım Bursa'da yaşıyorum.Bursa Teknik Üniversitesi bilgisayar mühendisliği hazırlık öğrencisiyim.Spor yapmaktan voleybol oynamamaktan İngilizce şarkı dinlemekten ve kendimi geliştirmek için vakit harcamktan hoşlanırım. <em> Şu anki hedefim kısa sürede en verimli şekilde ilerleyip işimde en iyilerden olmak</em>,bunun için çalışıyorum.</p>
     </td>
 
   </tr>
@@ -23,5 +27,21 @@
 <a href="https://www.linkedin.com/in/bahri-ilhan/"target="blank_">linkedin</a>
 <a href="https://github.com/"target="blank_">GitHub</a>
 <a href="https://app.patika.dev/bahridev"target="blank_">Patika.dev</a>
+<h1>SEVDİĞİM DİZİ/FİLMLER</h1>
+<h2>1. MERLIN</h2>
+<a href="https://www.imdb.com/title/tt1199099/"target="blank_"><img style="height: 300px" src="image/merlin.jpg" alt="merlin">
+
+</a>
+<h3>açıklama:</h3>
+  <p><em>Bunlar, genç bir adamken efsanevi büyücü Merlin'in, kısa süre sonra en iyi arkadaşı olan ve Arthur'u büyük bir krala dönüştüren Camelot kraliyet sarayında genç Prens Arthur'un hizmetkarıyken yepyeni maceraları. bir efsane.</em></p>
+<h2>2. AVATAR</h2>
+<a href="https://www.imdb.com/title/tt0499549/"><img src="image/th-1.jpg" alt="avatar"></a>
+<a href="https://www.imdb.com/title/tt0499549/"><img src="image/th.jpg" alt="avatar">
+</a>
+<h3>açıklama</h3>
+<p><em> Ay Pandora'ya benzersiz bir görev için gönderilen belden aşağısı felçli bir Denizci, emirlerini yerine getirmek ve evi olduğunu düşündüğü dünyayı korumak arasında kalır. </em></p>
+
+
+
 </body>
 </html>
