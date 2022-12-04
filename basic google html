@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="google.css">
+</head>
+<body>
+    <div class="img-p"> <img src="https://web.archive.org/web/19990504112211im_/http://www.google.com/google.jpg" alt="">
+    </div>
+    <div class="img-p2">
+        <p id="text">Search the web using Google!
+        </p>
+        <div id="tbar"> <input size="60px" type="text">  
+            <!-- text barını ekledım ve boyut belirledim-->
+        </div>
+        <input type="button" value="Google Search">
+        <input type="button" value="I'm feeling lucky">
+    </div>
+    <div class="card1">
+        <h2>Special Searches</h2>
+        <p><a href="https://yandex.com/">Yandex</a></p>
+        <p><a href="https://www.startpage.com/">Startpage</a></p>
+        <p><a href="https://www.alhea.com/">Alhea </a></p>
+    </div>
+    <div class="card2">
+        <h2>Diğer hizmetler</h2>
+        <p><a href="https://www.youtube.com/">Youtube</a></p>
+        <p><a href="https://www.instagram.com/">Instagram</a></p>
+        <p><a href="https://www.google.com/maps/">Google Maps</a></p>
+    </div>
