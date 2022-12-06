@@ -1,0 +1,25 @@
+.t-mid
+{
+    text-align: center;
+}
+h1
+{
+    color: rgb(248, 11, 11); 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body
+{
+    background-color:rgb(208, 223, 167) ;
+}
+a
+{
+    color: blue;
+}
+h2
+{
+   color: rgb(56, 2, 255); 
+}
+.f-px
+{ 
+   height: 180px;
+}
