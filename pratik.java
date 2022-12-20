@@ -16,4 +16,3 @@ public class Main {
         System.out.print("türkçe netlerinizi girniz: ");
         tr=input.nextInt();
         System.out.println(mat + fen + sos + tr);
-
